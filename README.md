@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/repos/58036abff1f9a73a0e000a45/badges/cd97c2f2ec6c206f82ca/gpa.svg)](https://codeclimate.com/repos/58036abff1f9a73a0e000a45/feed)
+
 ## Scafold ##
 
 ### Installation ###
